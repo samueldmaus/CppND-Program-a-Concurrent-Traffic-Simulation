@@ -59,6 +59,8 @@ memory
 -
 TrafficObject.h
 /home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
+TrafficLight.h
+/home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
 
 /home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp
 iostream
@@ -79,6 +81,10 @@ iostream
 -
 random
 -
+chrono
+-
+future
+-
 TrafficLight.h
 /home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
 
@@ -88,16 +94,6 @@ mutex
 deque
 -
 condition_variable
--
-TrafficObject.h
-/home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
-
-/home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.cpp
-algorithm
--
-iostream
--
-chrono
 -
 TrafficObject.h
 /home/sammaus/ubuntu_projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
